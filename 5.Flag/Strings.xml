@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">flag</string>
+    <string-array name="flags">
+        <item>Select Flags</item>
+        <item>India</item>
+        <item>England</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
